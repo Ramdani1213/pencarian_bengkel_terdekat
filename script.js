@@ -73,6 +73,174 @@
       services: ['Servis ringan', 'Pemeriksaan mesin', 'Ganti oli', 'Pemeriksaan rem'],
       image: SHOP_PHOTO[1],
       description: 'Contoh bengkel servis umum di area Blang Mangat.'
+    },
+    {
+      id: 'banda-sakti-jaya',
+      name: 'Banda Sakti Motor Jaya',
+      address: 'Jl. Darussalam No. 27, Hagu Selatan, Banda Sakti, Kota Lhokseumawe, Aceh',
+      lat: 5.1902, lng: 97.1431,
+      categories: ['Motor', 'Ganti Oli'],
+      categoryLabel: 'Motor & ganti oli',
+      phone: '+62 000 0000 0006',
+      rating: '4,6', reviewCount: 17,
+      hours: 'Senin–Sabtu, 08.00–19.00 WIB',
+      services: ['Servis motor', 'Ganti oli', 'Pemeriksaan rantai', 'Servis rem'],
+      image: SHOP_PHOTO[2],
+      description: 'Contoh layanan motor di Hagu Selatan.'
+    },
+    {
+      id: 'lancang-garam-auto',
+      name: 'Lancang Garam Auto Care',
+      address: 'Jl. Sukaramai No. 14, Lancang Garam, Banda Sakti, Kota Lhokseumawe, Aceh',
+      lat: 5.1728, lng: 97.1588,
+      categories: ['Mobil', 'Servis Umum', 'Ganti Oli'],
+      categoryLabel: 'Mobil & servis umum',
+      phone: '+62 000 0000 0007',
+      rating: '4,8', reviewCount: 26,
+      hours: 'Senin–Sabtu, 08.00–18.00 WIB',
+      services: ['Servis berkala', 'Ganti oli', 'Pemeriksaan aki', 'Pemeriksaan mesin'],
+      image: SHOP_PHOTO[1],
+      description: 'Contoh servis mobil di kawasan Banda Sakti.'
+    },
+    {
+      id: 'bengkel-ujong-blang',
+      name: 'Ujong Blang Bengkel Motor',
+      address: 'Jl. Pantai Ujong Blang, Ujong Blang, Banda Sakti, Kota Lhokseumawe, Aceh',
+      lat: 5.1976, lng: 97.1542,
+      categories: ['Motor', 'Tambal Ban', 'Servis Umum'],
+      categoryLabel: 'Motor & tambal ban',
+      phone: '+62 000 0000 0008',
+      rating: '4,5', reviewCount: 14,
+      hours: 'Setiap hari, 07.30–20.00 WIB',
+      services: ['Servis motor', 'Tambal ban', 'Isi angin', 'Pemeriksaan rem'],
+      image: SHOP_PHOTO[0],
+      description: 'Contoh bengkel motor di sekitar Ujong Blang.'
+    },
+    {
+      id: 'muara-dua-motor',
+      name: 'Muara Dua Motor Service',
+      address: 'Jl. Tgk. Chik Ditunong, Meunasah Mesjid, Muara Dua, Kota Lhokseumawe, Aceh',
+      lat: 5.1582, lng: 97.1516,
+      categories: ['Motor', 'Servis Umum'],
+      categoryLabel: 'Motor & servis umum',
+      phone: '+62 000 0000 0009',
+      rating: '4,7', reviewCount: 21,
+      hours: 'Senin–Sabtu, 08.00–18.30 WIB',
+      services: ['Servis motor', 'Tune up', 'Pemeriksaan kelistrikan', 'Ganti kampas rem'],
+      image: SHOP_PHOTO[2],
+      description: 'Contoh bengkel motor di kawasan Muara Dua.'
+    },
+    {
+      id: 'keude-cunda-ban',
+      name: 'Keude Cunda Ban & Oli',
+      address: 'Jl. Medan–Banda Aceh, Keude Cunda, Muara Dua, Kota Lhokseumawe, Aceh',
+      lat: 5.1627, lng: 97.1264,
+      categories: ['Tambal Ban', 'Ganti Oli', 'Motor'],
+      categoryLabel: 'Tambal ban & ganti oli',
+      phone: '+62 000 0000 0010',
+      rating: '4,6', reviewCount: 18,
+      hours: 'Setiap hari, 07.00–21.00 WIB',
+      services: ['Tambal ban tubeless', 'Ganti oli', 'Isi angin', 'Pemeriksaan ban'],
+      image: SHOP_PHOTO[1],
+      description: 'Contoh layanan ban dan oli di Keude Cunda.'
+    },
+    {
+      id: 'muara-satu-mandiri',
+      name: 'Muara Satu Bengkel Mandiri',
+      address: 'Jl. Elak, Blang Panyang, Muara Satu, Kota Lhokseumawe, Aceh',
+      lat: 5.1691, lng: 97.1062,
+      categories: ['Mobil', 'Servis Umum'],
+      categoryLabel: 'Mobil & servis umum',
+      phone: '+62 000 0000 0011',
+      rating: '4,7', reviewCount: 20,
+      hours: 'Senin–Sabtu, 08.00–17.30 WIB',
+      services: ['Servis ringan mobil', 'Pemeriksaan mesin', 'Servis rem', 'Pemeriksaan aki'],
+      image: SHOP_PHOTO[0],
+      description: 'Contoh bengkel umum di area Muara Satu.'
+    },
+    {
+      id: 'muara-satu-motor',
+      name: 'Rancong Motor & Tambal Ban',
+      address: 'Jl. Cot Seurani, Rancong, Muara Satu, Kota Lhokseumawe, Aceh',
+      lat: 5.1861, lng: 97.0940,
+      categories: ['Motor', 'Tambal Ban', 'Ganti Oli'],
+      categoryLabel: 'Motor & tambal ban',
+      phone: '+62 000 0000 0012',
+      rating: '4,5', reviewCount: 13,
+      hours: 'Setiap hari, 07.00–20.00 WIB',
+      services: ['Servis motor', 'Tambal ban dalam', 'Isi angin', 'Ganti oli'],
+      image: SHOP_PHOTO[2],
+      description: 'Contoh layanan motor di sekitar Rancong.'
+    },
+    {
+      id: 'blang-mangat-teknik',
+      name: 'Blang Mangat Teknik Motor',
+      address: 'Jl. Buloh Blang Ara No. 12, Blang Mangat, Kota Lhokseumawe, Aceh',
+      lat: 5.2203, lng: 97.1858,
+      categories: ['Motor', 'Servis Umum'],
+      categoryLabel: 'Motor & servis umum',
+      phone: '+62 000 0000 0013',
+      rating: '4,8', reviewCount: 24,
+      hours: 'Senin–Sabtu, 08.00–18.00 WIB',
+      services: ['Servis motor', 'Tune up', 'Servis kelistrikan', 'Pemeriksaan mesin'],
+      image: SHOP_PHOTO[1],
+      description: 'Contoh bengkel motor di kawasan Blang Mangat.'
+    },
+    {
+      id: 'blang-mangat-ban',
+      name: 'Simpang Ulim Ban & Oli',
+      address: 'Jl. Simpang Ulim, Blang Cut, Blang Mangat, Kota Lhokseumawe, Aceh',
+      lat: 5.2025, lng: 97.2017,
+      categories: ['Tambal Ban', 'Ganti Oli', 'Motor'],
+      categoryLabel: 'Tambal ban & ganti oli',
+      phone: '+62 000 0000 0014',
+      rating: '4,6', reviewCount: 16,
+      hours: 'Setiap hari, 07.00–20.30 WIB',
+      services: ['Tambal ban tubeless', 'Ganti oli', 'Isi angin', 'Pemeriksaan roda'],
+      image: SHOP_PHOTO[0],
+      description: 'Contoh layanan ban di kawasan Blang Mangat.'
+    },
+    {
+      id: 'dewantara-auto',
+      name: 'Dewantara Auto Service',
+      address: 'Jl. Medan–Banda Aceh, Uteun Geulinggang, Dewantara, Aceh Utara',
+      lat: 5.2308, lng: 97.0995,
+      categories: ['Mobil', 'Servis Umum', 'Ganti Oli'],
+      categoryLabel: 'Mobil & servis umum',
+      phone: '+62 000 0000 0015',
+      rating: '4,8', reviewCount: 29,
+      hours: 'Senin–Sabtu, 08.00–18.00 WIB',
+      services: ['Servis mobil', 'Ganti oli', 'Pemeriksaan kaki-kaki', 'Pemeriksaan mesin'],
+      image: SHOP_PHOTO[2],
+      description: 'Contoh layanan mobil di sekitar Dewantara, Aceh Utara.'
+    },
+    {
+      id: 'dewantara-motor',
+      name: 'Paloh Lada Motor',
+      address: 'Jl. Paloh Lada, Paloh Lada, Dewantara, Aceh Utara',
+      lat: 5.2140, lng: 97.0738,
+      categories: ['Motor', 'Tambal Ban', 'Servis Umum'],
+      categoryLabel: 'Motor & tambal ban',
+      phone: '+62 000 0000 0016',
+      rating: '4,6', reviewCount: 18,
+      hours: 'Senin–Minggu, 07.30–19.00 WIB',
+      services: ['Servis motor', 'Tambal ban', 'Ganti oli', 'Servis rantai'],
+      image: SHOP_PHOTO[1],
+      description: 'Contoh bengkel motor di area Dewantara.'
+    },
+    {
+      id: 'muara-dua-mandiri',
+      name: 'Panggoi Servis Kendaraan',
+      address: 'Jl. Panggoi, Panggoi, Muara Dua, Kota Lhokseumawe, Aceh',
+      lat: 5.1490, lng: 97.1683,
+      categories: ['Mobil', 'Motor', 'Servis Umum'],
+      categoryLabel: 'Servis umum',
+      phone: '+62 000 0000 0017',
+      rating: '4,7', reviewCount: 22,
+      hours: 'Senin–Sabtu, 08.00–18.00 WIB',
+      services: ['Servis ringan mobil dan motor', 'Ganti oli', 'Pemeriksaan rem', 'Pemeriksaan aki'],
+      image: SHOP_PHOTO[0],
+      description: 'Contoh layanan kendaraan umum di area Panggoi.'
     }
   ];
 
@@ -84,6 +252,8 @@
     originLabel: 'pusat Lhokseumawe',
     selectedId: null,
     map: null,
+    mapFittedToDirectory: false,
+    markerGroup: null,
     detailMap: null,
     markers: new Map(),
     detailMarker: null,
@@ -223,21 +393,23 @@
 
   function updateMarkers(visible) {
     if (!state.map) return;
-    state.markers.forEach((marker) => marker.remove());
+    state.markerGroup.clearLayers();
     state.markers.clear();
     visible.forEach((workshop) => {
       const marker = L.marker([workshop.lat, workshop.lng], { icon: markerIcon('shop'), title: workshop.name })
-        .addTo(state.map).bindPopup(mapPopup(workshop));
+        .bindPopup(mapPopup(workshop));
       marker.on('click', () => selectWorkshop(workshop.id, { scroll: false }));
       state.markers.set(workshop.id, marker);
+      state.markerGroup.addLayer(marker);
     });
     if (state.place) {
       state.map.setView([state.place.lat, state.place.lng], 14);
     } else if (visible.length) {
       const points = visible.map((shop) => [shop.lat, shop.lng]);
       if (state.userMarker) points.push([state.origin.lat, state.origin.lng]);
-      if (state.query || state.category !== 'Semua') {
+      if (state.query || state.category !== 'Semua' || !state.mapFittedToDirectory) {
         state.map.fitBounds(points, { padding: [28, 28], maxZoom: 14 });
+        if (!state.query && state.category === 'Semua') state.mapFittedToDirectory = true;
       }
     }
   }
@@ -254,6 +426,13 @@
       maxZoom: 19,
       attribution: '&copy; <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener noreferrer">OpenStreetMap</a>'
     }).addTo(state.map);
+    state.markerGroup = L.markerClusterGroup({
+      maxClusterRadius: 38,
+      showCoverageOnHover: false,
+      spiderfyOnMaxZoom: true,
+      zoomToBoundsOnClick: true
+    });
+    state.map.addLayer(state.markerGroup);
     renderResults();
     window.setTimeout(() => state.map && state.map.invalidateSize(), 120);
   }
@@ -429,6 +608,7 @@
     $('#locationNote').querySelector('strong').textContent = 'Jarak dari pusat kota';
     $('#locationNote').querySelector('p span').textContent = 'Gunakan lokasi Anda untuk jarak yang lebih akurat.';
     if (state.map) {
+      state.mapFittedToDirectory = false;
       state.map.setView([CITY_CENTER.lat, CITY_CENTER.lng], 14);
     }
     renderResults();

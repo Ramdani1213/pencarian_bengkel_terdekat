@@ -206,6 +206,8 @@ h1 em { font-style: normal; color: var(--blue); }
 .map-popup span { display: block; margin-top: 4px; color: #617683; font-size: 10px; }
 .map-popup button { margin-top: 8px; padding: 0; border: 0; background: none; color: var(--blue); font-size: 10px; font-weight: 700; }
 .leaflet-control-attribution { font-size: 8px !important; }
+.marker-cluster-small, .marker-cluster-medium, .marker-cluster-large { background-color: rgba(232, 121, 79, .23) !important; }
+.marker-cluster-small div, .marker-cluster-medium div, .marker-cluster-large div { background-color: var(--navy) !important; color: white !important; border: 2px solid white; box-shadow: 0 2px 6px rgba(16, 43, 70, .28); font-family: 'DM Sans', sans-serif; font-weight: 700; }
 .shop-marker { display: block; width: 28px !important; height: 28px !important; border: 3px solid white; border-radius: 50% 50% 50% 3px; background: var(--orange); box-shadow: 0 2px 7px rgba(16,43,70,.35); transform: rotate(-45deg); }
 .shop-marker span { display: block; position: absolute; inset: 7px; border-radius: 50%; background: white; }
 .user-marker { display: block; width: 18px !important; height: 18px !important; border: 3px solid white; border-radius: 50%; background: #3574aa; box-shadow: 0 0 0 5px rgba(53,116,170,.2), 0 2px 6px rgba(16,43,70,.3); }
