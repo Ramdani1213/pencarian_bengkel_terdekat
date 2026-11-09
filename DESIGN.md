@@ -22,8 +22,9 @@ Sistem pencari lokasi berbasis peta dengan disiplin navigasi lapangan: biru laut
 - Pencarian tampil sebelum filter kategori; daftar dan peta bersebelahan pada desktop, peta lebih dulu pada layar sempit.
 - Kartu bengkel berisi foto stok lokal, kategori, rating contoh, jarak, jam, telepon, detail, dan arah.
 - Detail terbuka dalam alur halaman, bukan modal, dan memuat peta lokasi serta aksi telepon/Google Maps.
+- Marker bengkel yang berdekatan digabung menjadi cluster pada peta ringkasan; memilih cluster memperbesar area, lalu marker individual membuka popup detail.
 - Semua filter dan navigasi dapat dioperasikan dengan keyboard; status hasil diumumkan melalui live region.
 - Pada viewport kecil, filter kategori bergulir horizontal dan navigasi utama dapat dibuka-tutup.
 
 ## Truth and assets
-Daftar dan angka adalah data contoh, bukan ulasan atau klaim usaha yang terverifikasi. Peta bergantung pada internet; hasil awal diukur dari pusat Lhokseumawe sampai lokasi pengguna atau daerah yang dicari. Foto stok adalah aset visual, bukan bukti bengkel atau listing nyata.
+Direktori terdiri dari 17 entri contoh yang secara ilustratif tersebar di Banda Sakti, Muara Dua, Muara Satu, Blang Mangat, dan Dewantara. Daftar dan angka adalah data contoh buatan, bukan ulasan atau klaim usaha nyata yang terverifikasi. Peta bergantung pada internet; cakupan awal peta mengikuti sebaran direktori, dan jarak dihitung dari pusat Lhokseumawe sampai lokasi pengguna atau daerah yang dicari. Foto stok adalah aset visual, bukan bukti bengkel atau listing nyata.
